@@ -11,3 +11,4 @@ Screenshot=amadeus-background.png
 MainScript=Main.qml
 Theme-Id=amadeus
 Theme-API=2.0
+QtVersion=6
